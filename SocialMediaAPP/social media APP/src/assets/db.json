@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "id": "9df5",
+      "username": "Menna Hassan",
+      "email": "Mennahassan2010st@gmail.com",
+      "password": "123456",
+      "profileImage": "https://i.pinimg.com/736x/51/12/4d/51124da38b9ae663e5f4e55e9fb4a3e3.jpg",
+      "token": "bq1w4ob9xfh"
+    },
+    {
+      "id": "234v",
+      "username": "Saloma Soso",
+      "email": "Salma@yahoo.com",
+      "password": "123456",
+      "profileImage": "https://www.vetogate.com/Upload/libfiles/482/2/956.jpg",
+      "token": "bq1w4ob9xfh"
+    }
+  ],
+  "posts": [
+    {
+      "id": "236c",
+      "userId": "9df5",
+      "content": "Here's my first post",
+      "image": "https://images.pexels.com/photos/3752194/pexels-photo-3752194.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "likes": 1,
+      "comments": [
+        {
+          "id": "1742520172814",
+          "userId": "9df5",
+          "userName": "Menna Hassan",
+          "content": "jg"
+        },
+        {
+          "id": "1742524966979",
+          "userId": "9df5",
+          "userName": "Menna Hassan",
+          "content": "usagdakjgdakjdg"
+        },
+        {
+          "id": "1742525355602",
+          "userId": "9df5",
+          "userName": "Salma el klba",
+          "content": "wow"
+        },
+        {
+          "id": "1742525526791",
+          "userId": "9df5",
+          "userName": "Menna Hassan",
+          "content": ""
+        },
+        {
+          "id": "1742525537121",
+          "userId": "9df5",
+          "userName": "Menna Hassan",
+          "content": "woooooow!"
+        }
+      ],
+      "likedBy": [
+        "9df5"
+      ],
+      "action": "like"
+    },
+    {
+      "id": "761c",
+      "userId": "9df5",
+      "content": "second post\n",
+      "image": "https://i.pinimg.com/736x/51/12/4d/51124da38b9ae663e5f4e55e9fb4a3e3.jpg",
+      "likes": 1,
+      "comments": [],
+      "likedBy": [
+        "9df5"
+      ],
+      "action": "like"
+    },
+    {
+      "id": "54d3",
+      "userId": "9df5",
+      "content": "jshjsd",
+      "image": "https://i.pinimg.com/736x/bd/6c/e3/bd6ce32f72f312c936f16ccf2e2c3e7d.jpg",
+      "likes": 0,
+      "comments": [
+        {
+          "id": "1742525429305",
+          "userId": "9df5",
+          "userName": "Menna Hassan",
+          "content": "hsgdgqwf"
+        }
+      ],
+      "likedBy": [],
+      "action": "dislike"
+    },
+    {
+      "id": "5d62",
+      "userId": "9df5",
+      "content": "jgsjdgjgd",
+      "image": "https://images.pexels.com/photos/3752194/pexels-photo-3752194.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "likes": 1,
+      "comments": [],
+      "likedBy": [
+        "9df5"
+      ],
+      "action": "like"
+    },
+    {
+      "id": "68fc",
+      "userId": "9df5",
+      "content": "jv",
+      "image": "https://i.pinimg.com/736x/bd/6c/e3/bd6ce32f72f312c936f16ccf2e2c3e7d.jpg",
+      "likes": 0,
+      "comments": []
+    }
+  ]
+}

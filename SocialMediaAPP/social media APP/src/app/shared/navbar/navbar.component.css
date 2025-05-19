@@ -1,0 +1,71 @@
+/* Navbar Background */
+.custom-navbar {
+
+
+    background: linear-gradient(to right, #2d2d2d, #272727);
+  }
+  
+  /* Navbar Text */
+  .custom-navbar .navbar-brand,
+  .custom-nav-link {
+    color: #fff !important;
+  }
+  
+  /* Navbar Buttons */
+  .custom-btn {
+    border: 2px solid white;
+    color: white;
+    transition: 0.3s;
+  }
+  .custom-btn:hover {
+    background: white;
+    color: #003366;
+  }
+  
+  /* Profile Button */
+  .custom-profile-btn {
+    padding: 8px 12px;
+    border: 2px solid white;
+  }
+  
+  /* Profile Image */
+  .profile-img {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid white;
+  }
+  
+  /* Dropdown Menu */
+  .dropdown-menu {
+    min-width: 160px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Logout Button */
+  .custom-logout-btn {
+    transition: 0.3s;
+  }
+  .custom-logout-btn:hover {
+    background: rgb(192, 0, 0);
+  }
+  
+  /* Cursor Pointer for Name */
+  .cursor-pointer {
+    cursor: pointer;
+  }
+  
+  
+  .custom-btn {
+  border: 2px solid white;
+  color: black !important; /* Make text black */
+  background-color: white; /* Keep background white */
+  transition: 0.3s;
+}
+
+.custom-btn:hover {
+  background: #b80000; /* Light gray on hover */
+  color: rgb(255, 255, 255) !important;
+  border-color: black;
+}
